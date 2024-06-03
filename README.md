@@ -1,1 +1,3 @@
 # my-rust
+
+cargo run
